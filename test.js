@@ -1,5 +1,5 @@
+'use strict'
 // test.js
-
 const f2c = require('./index.js')
 
 const tempF = 20
