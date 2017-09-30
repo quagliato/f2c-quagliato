@@ -1,0 +1,23 @@
+{
+  "name": "f2c-quagliato",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quagliato/f2c-quagliato.git"
+  },
+  "keywords": [
+    "fahrenheit",
+    "celsius"
+  ],
+  "author": "Eduardo Quagliato <eduardo@quagliato.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quagliato/f2c-quagliato/issues"
+  },
+  "homepage": "https://github.com/quagliato/f2c-quagliato#readme"
+}
